@@ -1,2 +1,2 @@
-# data_analysis
-Notebooks sobre análisis de datos con Python y R
+# Análisis de datos con Python
+
